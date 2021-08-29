@@ -1,0 +1,16 @@
+# Summary
+
+- [HTML5](./html5.md)
+- [Pagrindiniai HTML5 žymėnis](./important_html5_tags.md)
+- [Semantika - kodėl tai yra svarbu?](./semantics_why_it_is_important.md)
+- [header](./header.md)
+- [footer](./footer.md)
+- [article](./article.md)
+- [section](./section.md)
+- [nav](./nav.md)
+- [aside](./aside.md)
+- [aside](./aside.md)
+- [time](./time.md)
+- [address](./address.md)
+- [figure](./figure.md)
+- [Užduotis 1](./exercise_1.md)
