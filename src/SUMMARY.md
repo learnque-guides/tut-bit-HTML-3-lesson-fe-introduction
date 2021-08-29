@@ -14,3 +14,4 @@
 - [address](./address.md)
 - [figure](./figure.md)
 - [Užduotis 1](./exercise_1.md)
+- [Užduotis 2](./exercise_2.md)
