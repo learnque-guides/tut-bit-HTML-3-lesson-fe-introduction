@@ -9,7 +9,6 @@
 - [section](./section.md)
 - [nav](./nav.md)
 - [aside](./aside.md)
-- [aside](./aside.md)
 - [time](./time.md)
 - [address](./address.md)
 - [figure](./figure.md)
