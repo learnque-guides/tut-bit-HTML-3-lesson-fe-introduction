@@ -9,3 +9,5 @@
 ---
 
 [https://learn-the-web.algonquindesign.ca/topics/html-semantics-checklist/](https://learn-the-web.algonquindesign.ca/topics/html-semantics-checklist/)
+
+[https://html-lint.com/](https://html-lint.com/)
